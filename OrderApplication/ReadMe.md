@@ -47,5 +47,5 @@ Requirements
 >5.-->Create runner class named `OrderApplication`. it includes main method, we create customer object and Display results as requirement.
 
 ### Result:
-![My Image1](../../../../Desktop/1.png)
-![My Image2](../../../../Desktop/2.png)
+![My Image1](https://github.com/AdilEnverUygur/-DefineXSpringPracticumHomeworks/blob/main/OrderApplication/ScreenShot/1.png)
+![My Image2](https://github.com/AdilEnverUygur/-DefineXSpringPracticumHomeworks/blob/main/OrderApplication/ScreenShot/2.png)
